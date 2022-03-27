@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "How Are You"; ObjectID = "cVX-wk-yzV"; */
+"cVX-wk-yzV.text" = "How Are You";
+
+/* Class = "UIButton"; configuration.title = "Change Language"; ObjectID = "dhN-AS-u3v"; */
+"dhN-AS-u3v.configuration.title" = "Change Language";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "dhN-AS-u3v"; */
+"dhN-AS-u3v.normalTitle" = "Change Language";
